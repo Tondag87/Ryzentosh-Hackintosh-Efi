@@ -17,3 +17,6 @@ Ethernet: Directly from MOBO
 NO WIFI
 
 IF IT DOES NOT WORK YOU NEED TO DO SOME MORE CONFIGURING ON YOUR OWN I WILL NOT BE ABLE TO PROVIDE THESE FILES
+
+![Screen Shot 2022-06-16 at 8 20 43 PM](https://user-images.githubusercontent.com/89696594/174299221-758b8536-bd1a-4731-b5d3-2f4b5ec0ba6c.png)
+![Screen Shot 2022-06-16 at 4 57 20 PM](https://user-images.githubusercontent.com/89696594/174299239-c5640823-d6ce-4526-95a0-ce4afe8b143c.png)

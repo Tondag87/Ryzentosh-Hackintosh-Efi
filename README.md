@@ -2,6 +2,11 @@
 Ryzen Hackintosh Efi from reddit post 
 https://www.reddit.com/r/hackintosh/comments/ve05rc/i_did_it_guys_hackintosh_ryzen_edition/
 
+COPY EVERYTHING BUT BOOT
+INTO A NEW FOLDER CALLED OC
+
+*-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--------------*
+
 THIS WAS BUILT SPECIFICALLY FOR MY SYSTEM 
 
 Cpu: AMD Ryzen 5 2600
